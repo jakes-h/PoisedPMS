@@ -1,0 +1,2 @@
+# PoisedPMS
+This program is a project management system for a small structural engineering firm called Poised. It stores various information about the projects that Poised work on,  including information about the project, architect, contractor and the customer. In version 1 of this program project data was saved in external text files.  This version (version 2) of the program is modified so that it now uses a database instead of text files to store data needed for the program.
